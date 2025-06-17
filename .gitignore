@@ -1,0 +1,15 @@
+# Ignore large and generated files
+results/
+results_preprocessing/
+
+
+# Ignore cache and compiled
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore plots and logs
+*.png
+*.log
+*.csv
+*.mat
